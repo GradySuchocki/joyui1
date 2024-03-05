@@ -8,7 +8,7 @@ import Input from '@mui/joy/Input';
 
 export default function BasicButtons() {
   return (
-    </Box>
+    <Box>
     <Box sx={{ display: 'flex', gap: 2, flexWrap: 'wrap' }}>
       <Button>Button</Button>
       <Button disabled>Disabled</Button>
